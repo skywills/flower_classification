@@ -1,4 +1,8 @@
-Flower DATA File
+Flower Data File
 https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
 
-extract to flower_photos
+
+clothes Data File
+https://www.kaggle.com/imneonizer/normal-vs-camouflage-clothes
+
+https://www.pyimagesearch.com/2020/04/27/fine-tuning-resnet-with-keras-tensorflow-and-deep-learning/
